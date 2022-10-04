@@ -1,0 +1,2 @@
+# Vaalikone
+Election machine software
