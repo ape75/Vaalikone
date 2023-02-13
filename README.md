@@ -3,6 +3,7 @@
 **A web-based election management software for both voters and candidates.**
 
 Made with using **Java, JSP, Java Servlet, MySQL and RESTful web services**.<br/>
+This program is implemented by following the **Java MVC** architecture model. <br/>
 Local **MySQL** database is used to store the data regarding the voters and the questions. 
 
 ## With this application you can:
